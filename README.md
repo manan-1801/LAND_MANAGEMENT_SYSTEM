@@ -198,7 +198,8 @@ Here,in this project we have used mycursor.execute() function to use MYSQL queir
 
 
 
-# Thank You
+#THANKYOU
+
 
 
 
